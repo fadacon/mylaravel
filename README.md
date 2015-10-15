@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Smarty 3 template engine
 ##Distribution repository
 
@@ -50,3 +51,6 @@ Which is a wrapper to install all 3 packages
 
 
 Composer can also be used for Smarty2 versions 2.6.24 to 2.6.28
+=======
+# mylaravel
+>>>>>>> 754061c480ffb51c5dd71df7597667daa519301c

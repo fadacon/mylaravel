@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #################
 ## Eclipse
 #################
@@ -220,3 +221,9 @@ pip-log.txt
 # Smarty
 lexer/*.php
 lexer/*.out
+=======
+/bootstrap/compiled.php
+.env.*.php
+.env.php
+.env
+>>>>>>> 754061c480ffb51c5dd71df7597667daa519301c
